@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kpk4d-jitu.de-rse.org/sitemap.xml
